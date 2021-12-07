@@ -5,7 +5,7 @@
 - 📫 E-mail: winicioscavalcante01@gmail.com
 - ⚡ Fun fact: *chinchilas* podem morrer por conta da humildade.
 
-<div align="">
+<div style="display: inline_block">
   <a href="https://github.com/winicabe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=winicabe&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winicabe&layout=compact&langs_count=7&theme=dracula"/>
