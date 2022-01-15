@@ -1,7 +1,7 @@
 ### Olá. Eu sou Winicabe!
 
 - 🔭 Aprendendo Inglês
-- 🌱 Estudando ReactJS, SQL e NODE... Planejando novo projeto.
+- 🌱 Estudando ReactJS, SQL e NODE(Express)... Planejando novo projeto.
 - 📫 E-mail: winicioscavalcante01@gmail.com
 - ⚡ Fun fact: *chinchilas* podem morrer por conta da humildade.
 
