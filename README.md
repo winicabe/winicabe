@@ -1,5 +1,5 @@
 ### Olá. Eu sou Winicabe!
-
+## Auxente até o dia 03/02/2021 por questões de saúde.
 - 🔭 Aprendendo Inglês
 - 🌱 Estudando ReactJS, SQL e NODE(Express)... Planejando novo projeto.
 - 📫 E-mail: winicioscavalcante01@gmail.com
