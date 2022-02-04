@@ -1,5 +1,5 @@
 ### Olá. Eu sou Winicabe!
-## Auxente até o dia 03/02/2021 por questões de saúde. (Talvez um pouco mais. Muita fé FML!)
+
 - 🔭 Aprendendo Inglês
 - 🌱 Estudando ReactJS, SQL e NODE(Express)... Planejando novo projeto.
 - 📫 E-mail: winicioscavalcante01@gmail.com
@@ -21,5 +21,4 @@
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
-  <!--<img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
   </div>
